@@ -1,4 +1,8 @@
 # FRONTEND 
+```
+php artisan make:controller MahasiswaController
+php artisan make:controller DosenController
+```
 
 1. APP > Http > Controllers
 - DosenWaliController.php
